@@ -1,0 +1,75 @@
+html {
+  font-size: 100%;
+  font-family: "Yekan";
+  /* align-items:center;
+  justify-content:center; */
+  /* margin: 5.5rem 15rem; */
+}
+
+.image {
+  display: block;
+  /* width: 50%; */
+  margin: auto;
+  }
+
+.text1{
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  margin-top: 16px;
+}
+
+.text2{
+  margin-top: .7rem;
+  font-size: .9rem;
+  color: #5a5a5a ;
+}
+
+.text3{
+  margin-top: .4rem;
+  color: #f04057;
+  font-size: .9rem;
+}
+
+.form {
+  /* margin-top: ; */
+  padding: 32px;
+  border:#e0e0e2 solid 1px;
+  border-radius: 8px;
+  /* height: 500px; */
+  width: 350px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: 164px auto;
+}
+
+.form-control {
+  width:98%;
+  font-family: inherit;
+  padding: .8rem .8rem;
+  margin-top: 1.2rem;
+  border-radius: 6px;
+  border: 1px solid #f04057;
+  box-sizing: border-box;
+}
+
+.inter{
+  width: 98%;
+  font-family: inherit;
+  padding: .6rem .3rem;
+  margin: 2.8rem 0 1rem 0;
+  border-radius: 6px;
+  border: 1px solid #f04057;
+  background-color: #f04057;
+  color: white;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.text4{
+  font-size: .8rem;
+}
+
+.text5{
+  text-decoration:none;
+  color: #048db9;
+}
